@@ -226,7 +226,6 @@ function create_config( )
     "say",
     "server_manager",
     "voice",
-    "xyz",
     "attack"
     },
     sudo_users = {212990316},--Sudo users
