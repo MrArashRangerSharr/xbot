@@ -217,7 +217,17 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+    "admin",
+    "Life_Spammer",
+    "Line_Spammer",
+    "Plugins_Manager",
+    "echo",
+    "s2a",
+    "say",
+    "server_manager",
+    "voice",
+    "xyz",
+    "attack"
     },
     sudo_users = {212990316},--Sudo users
     disabled_channels = {},
